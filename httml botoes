@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <style>
+        .button {
+            background-color: #4CAF50; /* Green */
+            border: none;
+            color: white;
+            padding: 15px 32px;
+            text-align: center;
+            text-decoration: none;
+            display: inline-block;
+            font-size: 16px;
+            margin: 4px 2px;
+            cursor: pointer;
+        }
+    </style>
+</head>
+<body>
+
+<h2>Botões com Links</h2>
+
+<!-- Botão 1 -->
+<p><a href="https://www.site1.com" class="button">Site 1</a></p>
+<p>Descrição do Site 1</p>
+
+<!-- Botão 2 -->
+<p><a href="https://www.site2.com" class="button">Site 2</a></p>
+<p>Descrição do Site 2</p>
+
+<!-- Botão 3 -->
+<p><a href="https://www.site3.com" class="button">Site 3</a></p>
+<p>Descrição do Site 3</p>
+
+<!-- Botão 4 -->
+<p><a href="https://www.site4.com" class="button">Site 4</a></p>
+<p>Descrição do Site 4</p>
+
+<!-- Botão 5 -->
+<p><a href="https://www.site5.com" class="button">Site 5</a></p>
+<p>Descrição do Site 5</p>
+
+</body>
+</html>
